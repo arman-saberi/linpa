@@ -1,28 +1,69 @@
 baseurl = "https://example.com"
-title = "Make the Web Fun Again"
+title = "Arman Saberi"
 
 theme = "hurock"
 MetaDataFormat = "yaml"
 
 
-[author]
-  name = "Your name"
-  email = "your@email.com"
+#[author]
+#  name = "Your name"
+#  email = "your@email.com"
   
   # hurock theme:
-  github = ""
-  linkedin = ""
-  googleplus = ""
+#  github = ""
+#  linkedin = ""
+#  googleplus = ""
 
 [permalinks]
   posts = "/:year/:month/:filename/"
 
-[params]
-  Description = "Your description"
-  notoc = true
-  disqusShortname = ""
-  gaID = ""
+#[params]
+#  Description = "Your description"
+#  notoc = true
+#  disqusShortname = ""
+#  gaID = ""
 
 [blackfriday]
   plainIDAnchors = true
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[author]
+  name = "Arman Saberi"
+  email = "arman_saberi@ymail.com"
+  
+  github = "https://github.com/arman-saberi"
+  twitter = "https://twitter.com/lastrada0"
+  facebook = ""
+  googleplus = ""
+  linkedin = "https://www.linkedin.com/in/arman-saberi"
+
+[params]
+  Description = "دنیای آزاد"
+  # Optional
+  disqusShortname = ""
+  gaID = "Google Analytics Tracking ID"
+  highlight_theme = "tomorrow-night"
+  notoc = true
+
+
+# Optional sections:
+[permalinks]
+  posts = "/:year/:month/:filename/"
+
+[blackfriday]
+  plainIdAnchors = true
