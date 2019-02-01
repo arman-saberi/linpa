@@ -9,4 +9,4 @@
 	url = https://github.com/spf13/herring-cove.git
 [submodule "themes/hugo-nuo"]
 	path = themes/hugo-nuo
-	url = https://github.com/laozhu/hugo-nuo.git
+	url = https://github.com/laozhu/hugo-nuo
