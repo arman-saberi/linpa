@@ -1,3 +1,6 @@
 [submodule "themes/future-imperfect"]
 	path = themes/future-imperfect
 	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/hurock"]
+	path = themes/hurock
+	url = https://github.com/TiTi/hurock.git
