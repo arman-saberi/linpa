@@ -62,8 +62,8 @@ MetaDataFormat = "yaml"
 
 
 # Optional sections:
-[permalinks]
-  posts = "/:year/:month/:filename/"
+#[permalinks]
+#  posts = "/:year/:month/:filename/"
 
 [blackfriday]
   plainIdAnchors = true
