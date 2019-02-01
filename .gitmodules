@@ -4,3 +4,9 @@
 [submodule "themes/hurock"]
 	path = themes/hurock
 	url = https://github.com/TiTi/hurock.git
+[submodule "themes/herring-cove"]
+	path = themes/herring-cove
+	url = https://github.com/spf13/herring-cove.git
+[submodule "themes/hugo-nuo"]
+	path = themes/hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo.git
