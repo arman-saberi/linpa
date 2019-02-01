@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en"
-title = "Hugo Blog"
+title = "Arman Saberi"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 PygmentsCodeFences = true
@@ -17,16 +17,16 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
-  name = "Home"
+  name = "home"
   weight = 10
-  identifier = "home"
+  identifier = "خانه"
   url = "/"
 
 [[menu.main]]
   name = "Works"
   weight = 20
-  identifier = "works"
-  url = "https://github.com/laozhu"
+  identifier = "Github"
+  url = "https://github.com/arman-saberi"
 
 [[menu.main]]
   name = "Tags"
@@ -39,16 +39,16 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   author = "Ritchie Zhu"
   bg = "images/grey-prism.svg"
   avatar = "images/avatar.png"
-  seotitle = "Hugo Blog (SEO Version)"
-  subtitle = "~ Keep It Simple & Stupid ~"
-  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  seotitle = "Arman Saberi"
+  subtitle = "~ Keep It Simple Stupid"
+  description = "دنیای آزاد"
   paginate = 10
 
   # Choose your social networks
-  email = "name@domain.com"
-  github = "github_username"
-  twitter = "twitter_username"
-  linkedin = "linkedin_username"
+  email = "arman_saberi@ymail.com"
+  github = "arman-saberi"
+  twitter = "lastrada0"
+  linkedin = "arman-saberi"
   weibo = "weibo_username"
   wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
   # facebook = "facebook_username"
