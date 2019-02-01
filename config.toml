@@ -36,9 +36,9 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Add your own params here
 [params]
-  author = "Ritchie Zhu"
-  bg = "images/grey-prism.svg"
-  avatar = "images/avatar.png"
+  author = "آرمان صابری"
+  bg = "images/re.png"
+  avatar = "images/re.png"
   seotitle = "Arman Saberi"
   subtitle = "~ Keep It Simple Stupid"
   description = "دنیای آزاد"
@@ -49,8 +49,8 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   github = "arman-saberi"
   twitter = "lastrada0"
   linkedin = "arman-saberi"
-  weibo = "weibo_username"
-  wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
+  #weibo = "weibo_username"
+  #wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
   # facebook = "facebook_username"
   # google = "googlplus_id_number"
   # instagram = "instagram_username"
