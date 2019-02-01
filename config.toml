@@ -37,7 +37,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 # Add your own params here
 [params]
   author = "آرمان صابری"
-  bg = "images/re.png"
+  bg = "images/grey-prism.svg"
   avatar = "images/re.png"
   seotitle = "Arman Saberi"
   subtitle = "~ Keep It Simple Stupid"
