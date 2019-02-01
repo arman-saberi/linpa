@@ -17,15 +17,15 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
-  name = "home"
+  name = "Home"
   weight = 10
-  identifier = "خانه"
+  identifier = "home"
   url = "/"
 
 [[menu.main]]
   name = "Works"
   weight = 20
-  identifier = "Github"
+  identifier = "works"
   url = "https://github.com/arman-saberi"
 
 [[menu.main]]
@@ -38,10 +38,10 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 [params]
   author = "آرمان صابری"
   bg = "images/grey-prism.svg"
-  avatar = "images/avataar.png"
+  avatar = "images/avatar.png"
   seotitle = "Arman Saberi"
-  subtitle = "~ Keep It Simple Stupid"
-  description = "دنیای آزاد"
+  subtitle = "~ Keep It Simple & Stupid ~"
+  description = "گنولینوکس و نرم افزار آزاد"
   paginate = 10
 
   # Choose your social networks
