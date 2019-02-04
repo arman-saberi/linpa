@@ -44,6 +44,10 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   description = "گنولینوکس و نرم افزار آزاد"
   paginate = 10
 
+  truncate = true
+  hideReadingTime = false
+  
+
   # Choose your social networks
   email = "arman_saberi@ymail.com"
   github = "arman-saberi"
