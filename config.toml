@@ -1,7 +1,7 @@
 baseURL = ""
 languageCode = "en"
 title = "Arman Saberi"
- HEAD
+HEAD
 theme = "hyde-x"
 
 theme = "hugo-nuo"
