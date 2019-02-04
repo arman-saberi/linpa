@@ -1,11 +1,7 @@
 baseURL = ""
 languageCode = "en"
 title = "Arman Saberi"
-HEAD
 theme = "hyde-x"
-
-theme = "hugo-nuo"
- 1d154fe914f9334c789a1bd28165f0f3a367cb5d
 enableRobotsTXT = true
 PygmentsCodeFences = true
 canonifyurls = true
