@@ -77,7 +77,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Overrid theme styles in this file
   # customStyle = "styles/custom.scss"
-  customCSS = ["/css/rtl.css"]
+  #customCSS = ["/css/rtl.css"]
 
   # Changyan Comments (China Only)
   changyan = false
