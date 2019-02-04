@@ -1,0 +1,18 @@
+[submodule "themes/future-imperfect"]
+	path = themes/future-imperfect
+	url = https://github.com/jpescador/hugo-future-imperfect.git
+[submodule "themes/hurock"]
+	path = themes/hurock
+	url = https://github.com/TiTi/hurock.git
+[submodule "themes/herring-cove"]
+	path = themes/herring-cove
+	url = https://github.com/spf13/herring-cove.git
+[submodule "themes/hugo-nuo"]
+	path = themes/hugo-nuo
+	url = https://github.com/laozhu/hugo-nuo
+<<<<<<< HEAD
+[submodule "themes/hyde-x"]
+	path = themes/hyde-x
+	url = https://github.com/zyro/hyde-x.git
+=======
+>>>>>>> 1d154fe914f9334c789a1bd28165f0f3a367cb5d
