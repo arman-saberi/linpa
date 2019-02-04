@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="{{ "/css/poole-overrides.css" | absURL }}">
   <link rel="stylesheet" href="{{ "/css/hyde-overrides.css" | absURL }}">
   <link rel="stylesheet" href="{{ "/css/hyde-x.css" | absURL }}">
-  {{ if eq .Lang "ar" }}<link rel="stylesheet" href="/css/rtl.css">{{ end }}
+  {{ if eq .TextDirection "rtl" }}<link rel="stylesheet" href="/css/rtl.css">{{ end }}
   {{ if eq .Lang "ar" }}<link rel="stylesheet" href="/css/rtl.css">{{ end }}
   {{ if isset .Site.Params "highlight" }}<link rel="stylesheet" href="{{ "/css/highlight/" | absURL }}{{ .Site.Params.highlight }}.css">{{ end }}
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
